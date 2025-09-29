@@ -8,6 +8,17 @@
 
 <br>
 
+## I am working in Apequa Inc S.A.S 💻:
+
+Tasks developed: real-time messaging system, payment and subscription gateway, real-time event management with socket.io. Work on jobs and queues. Testing with PHP Unit and Jest using NodeJS.
+
+<img width="24" height="24" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/> <img width="24" height="24" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/> <img width="24" height="24" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="24" height="24" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+
+
+<br>
+
+<br>
+
 ## Connect with me ☕ :
 
 <br>
@@ -22,13 +33,13 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/> 
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img src="https://img.icons8.com/office/48/000000/react.png"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
