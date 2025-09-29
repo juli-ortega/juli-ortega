@@ -8,11 +8,11 @@
 
 <br>
 
-## I am working in Apequa Inc S.A.S 💻:
+## I'm working in Apequa Inc S.A.S 💻:
 
 Tasks developed: real-time messaging system, payment and subscription gateway, real-time event management with socket.io. Work on jobs and queues. Testing with PHP Unit and Jest using NodeJS.
 
-<img width="24" height="24" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/> <img width="24" height="24" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/> <img width="24" height="24" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="24" height="24" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+<img width="32" height="32" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/> <img width="32" height="32" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/> <img width="32" height="32" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="32" height="32" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 
 
 <br>
