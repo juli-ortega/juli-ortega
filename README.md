@@ -3,7 +3,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **back-end developer.**
-- 🎓 Studies for University Technician Degree in Programming at [Universidad Tecnologica Nacional](https://utn.edu.ar/es/)
+- 🎓 University Technician Degree in Programming at [Universidad Tecnologica Nacional](https://utn.edu.ar/es/)
 - 🏡 Lives in **Mendoza, Argentina**
 
 <br>
